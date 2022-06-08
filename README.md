@@ -1,5 +1,5 @@
 ### `Hello, world!`
-## This is Nauman Arif.
+I am a Computer Science student.
 
 ### `Skills`
 #### 💻 Programming Languages:  
@@ -8,6 +8,10 @@ C/C++, Python, SQL, HTML, CSS, JavaScript.
 Pandas, Numpy, Matplotlib, Plotly, Django, Bootstrap.  
 #### 🛠️ Developer Tools:  
 Git, Linux, GDB, Jupyter, VSCode
+
+### `Get in touch!`
+📧 Email:    [naumanaarif.dev@gmail.com](mailto:naumanaarif.dev@gmail.com)  
+👨🏻‍💼 LinkedIn: [naumanaarif](https://www.linkedin.com/in/naumanaarif/)
 
 <!--
 **naumanaarif/naumanaarif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
