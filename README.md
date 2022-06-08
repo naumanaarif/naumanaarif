@@ -1,4 +1,13 @@
-### Hi there 👋
+### `Hello, world!`
+# This is Nauman Arif.
+
+### `Skills`
+#### 💻 Programming Languages:  
+C/C++, Python, SQL, HTML, CSS, JavaScript.  
+#### ⚙️ Libraries/Frameworks:  
+Pandas, Numpy, Matplotlib, Plotly, Django, Bootstrap.  
+#### 🛠️ Developer Tools:  
+Git, Linux, GDB, Jupyter, VSCode
 
 <!--
 **naumanaarif/naumanaarif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
