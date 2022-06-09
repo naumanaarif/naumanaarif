@@ -8,7 +8,9 @@ This is <strong>Nauman Arif</strong> - a 20 years old self-taught programmer who
 
 <!-- ### `Stats`
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naumanaarif&title_color=ffffff&hide_border=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naumanaarif&title_color=ffffff&hide_border=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=naumanaarif&hide_border=true&theme=dracula&layout)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ### `Socials`
 
