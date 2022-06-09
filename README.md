@@ -2,13 +2,17 @@
 This is <strong>Nauman Arif</strong> - a 20 years old self-taught programmer from Pakistan.
 
 ## `Skills`
-[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,js,html,css,django,bootstrap,git,vscode,github,linux,powershell,bash,md,regex&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,python,js,html,css,django,bootstrap,sqlite,git,vscode,github,linux,powershell,bash,md,regex&perline=6)](#)
 
 ## `Stats`
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naumanaarif&title_color=ffffff&hide_border=true&show_icons=true&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## `Socials`
 📧 Email:    [naumanaarif.dev@gmail.com](mailto:naumanaarif.dev@gmail.com)  
+
+[![My LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=dark&perline=6)](https://www.linkedin.com/in/naumanaarif)
+[![My Twitter](https://skillicons.dev/icons?i=twitter&theme=dark&perline=6)](https://www.twitter.com/naumanaarif)
+[![My Instagram](https://skillicons.dev/icons?i=instagram&theme=dark&perline=6)](https://www.instagram.com/naumanaarif)  
 
 <!--
 **naumanaarif/naumanaarif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
