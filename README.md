@@ -1,10 +1,10 @@
 ### `Hello, world!`
 
-This is <strong>Nauman Arif</strong> - a 20 years old self-taught programmer from Pakistan.
+This is <strong>Nauman Arif</strong> - a 20 years old self-taught programmer who loves programming and design.
 
 ### `Skills`
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,js,html,css,bootstrap,python,django,sqlite,git,github,vscode,linux,powershell,bash,md,regex&theme=dark&perline=6)](#)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,js,html,css,bootstrap,python,django,git,github,mysql,vscode,linux,powershell,bash,md,regex&theme=dark&perline=6)](#)
 
 ### `Stats`
 
