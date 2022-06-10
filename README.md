@@ -1,4 +1,4 @@
-### 👋🏽 `Hello, world!`
+### 👋🏼 `Hello, world!`
 
 This is <strong>Nauman Arif</strong> - a 20 years old self-taught programmer who loves programming and design.
 
