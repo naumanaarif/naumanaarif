@@ -1,6 +1,6 @@
 ### 👋🏼 `Hello, world!`
 
-This is <strong>Nauman Arif</strong> - a 20 years old self-taught programmer with great passion for problem-solving and design.
+This is <strong>Nauman Arif</strong> - A 20-year-old Computer Science student who loves to build computer programs...
 
 ### 👨🏽‍💻 `Skills`
 
