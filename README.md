@@ -1,6 +1,6 @@
 ### 👋🏼 `Hello, world!`
 
-This is <strong>Nauman Arif</strong> - A 20-year-old Computer Science student who loves to build computer programs...
+### This is <strong>Nauman Arif</strong>.
 
 ### 👨🏽‍💻 `Skills`
 
