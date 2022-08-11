@@ -1,7 +1,3 @@
-### 👋🏼 `Hello, world!`
-
-### This is <strong>Nauman Arif</strong>.
-
 ### 👨🏽‍💻 `Skills`
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,js,html,css,bootstrap,python,django,git,github,mysql,vscode,linux,powershell,bash,md,regex&theme=dark&perline=6)](#)
@@ -14,8 +10,8 @@
 
 ### 🔗 `Socials`
 
-<!-- 📧 [naumanaarif.dev@gmail.com](mailto:naumanaarif.dev@gmail.com)   -->
-
 [![My LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=dark&perline=6)](https://www.linkedin.com/in/naumanaarif)
 [![My Twitter](https://skillicons.dev/icons?i=twitter&theme=dark&perline=6)](https://www.twitter.com/naumanaarif)
 [![My Instagram](https://skillicons.dev/icons?i=instagram&theme=dark&perline=6)](https://www.instagram.com/naumanaarif)  
+
+📧 [naumanaarif.dev@gmail.com](mailto:naumanaarif.dev@gmail.com)  
