@@ -1,5 +1,3 @@
-<h1 align="left">Hi 👋, I'm Nauman.</h1>
-<h3 align="left">A passionate problem-solver from Pakistan.</h3>
 
 ### `Languages & Tools`
 
