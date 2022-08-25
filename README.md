@@ -13,7 +13,7 @@
 
 ### `Skills`
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,js,html,css,bootstrap,python,django,git,github,mysql,vscode,linux,powershell,bash,regex&theme=dark&perline=8)](#)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,js,html,css,bootstrap,git,django,python,github,mysql,vscode,linux,powershell,bash,regex&theme=dark&perline=8)](#)
 
 
 <!-- ### `Stats`
