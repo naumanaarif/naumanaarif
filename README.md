@@ -45,9 +45,10 @@
 
 ### `Stats`
 
-![Nauman's GitHub stats](https://github-readme-stats.vercel.app/api?username=naumanaarif&theme=github_dark&show_icons=true&hide_border=true&count_private=true&hide_title=true&hide=stars)
+![Nauman's GitHub stats](https://github-readme-stats.vercel.app/api?username=naumanaarif&theme=github_dark&show_icons=true&hide_border=false&border_radius=22&count_private=true&hide_title=true)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=naumanaarif&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naumanaarif&theme=github_dark&show_icons=true&locale=en&hide_border=true&card_width=200&langs_count=4" alt="naumanaarif" /></p> -->
 
