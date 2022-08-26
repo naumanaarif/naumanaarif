@@ -2,6 +2,7 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=naumanaarif&label=Profile%20views&color=0e75b6" alt="naumanaarif" /> </p> -->
 
 <!-- CONNECT -->
+
 ### `Profiles`
 <p align="left">
 <a href="https://linkedin.com/in/naumanaarif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naumanaarif" height="30" width="40" /></a>
@@ -14,6 +15,15 @@
 ### `Skills`
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,js,html,css,bootstrap,git,django,python,github,mysql,vscode,linux,powershell,bash,regex&theme=dark&perline=8)](#)
+
+
+### `Stats`
+
+![Nauman's GitHub stats](https://github-readme-stats.vercel.app/api?username=naumanaarif&theme=github_dark&show_icons=true&hide_border=false&border_radius=22&count_private=true&hide_title=true)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=naumanaarif&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+
 
 
 <!-- ### `Stats`
@@ -43,11 +53,6 @@
 <a href="https://www.hackerrank.com/naumanaarif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="naumanaarif" height="30" width="40" /></a>
 </p> -->
 
-### `Stats`
-
-![Nauman's GitHub stats](https://github-readme-stats.vercel.app/api?username=naumanaarif&theme=github_dark&show_icons=true&hide_border=false&border_radius=22&count_private=true&hide_title=true)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=naumanaarif&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naumanaarif&theme=github_dark&show_icons=true&locale=en&hide_border=true&card_width=200&langs_count=4" alt="naumanaarif" /></p> -->
