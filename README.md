@@ -21,7 +21,7 @@
 
 <!-- ![Nauman's GitHub stats](https://github-readme-stats.vercel.app/api?username=naumanaarif&theme=github_dark&show_icons=true&hide_border=false&border_radius=22&count_private=true&hide_title=true) -->
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=naumanaarif&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=naumanaarif&theme=github-dark-blue&hide_border=false&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 
 
