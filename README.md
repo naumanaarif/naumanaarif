@@ -3,7 +3,7 @@
 
 <!-- CONNECT -->
 
-### `Connect`
+### `Profiles`
 <p align="left">
 <a href="https://linkedin.com/in/naumanaarif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naumanaarif" height="30" width="40" /></a>
 <a href="https://kaggle.com/naumanaarif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="naumanaarif" height="30" width="40" /></a>
@@ -12,12 +12,12 @@
 <a href="https://www.hackerrank.com/naumanaarif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="naumanaarif" height="30" width="40" /></a>
 </p>
 
-### `Skills`
+### `Languages & Tools`
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,js,html,css,bootstrap,git,django,python,github,mysql,vscode,linux,powershell,bash,regex&theme=dark&perline=8)](#)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,js,html,css,git,django,python,github,vscode,linux,regex&theme=dark&perline=6)](#)
 
 
-### `Stats`
+### `Github Stats`
 
 <!-- ![Nauman's GitHub stats](https://github-readme-stats.vercel.app/api?username=naumanaarif&theme=github_dark&show_icons=true&hide_border=false&border_radius=22&count_private=true&hide_title=true) -->
 
