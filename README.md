@@ -27,12 +27,18 @@
 
 <div align=center>
 
-<!-- <div style="display: flex; gap: 8px"> -->
+<div style="display: flex; justify-content: space-between;">
+
+<!-- LANGS -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naumanaarif&title_color=ffffff&hide_border=true&show_icons=true&theme=github_dark&layout=compact" height="" width="400">
+
 <!-- STREAK -->
-<img src="https://github-readme-streak-stats.herokuapp.com?user=naumanaarif&theme=github-dark-blue&stroke=384963&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="220">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=naumanaarif&theme=github-dark-blue&stroke=384963&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="400">
+
 <!-- STATS -->
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=naumanaarif&theme=github_dark&show_icons=true&hide_border=true&count_private=true&hide_title=true"> -->
-<!-- </div> -->
+
+</div>
 
 <!-- CONTRIBUTION GRAPH -->
 <img src="https://activity-graph.herokuapp.com/graph?username=naumanaarif&theme=github-dark&hide_border=true&color=e5e5e5&custom_title=GitHub%20Contributions">
