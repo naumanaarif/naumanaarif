@@ -25,18 +25,17 @@
 
 <!-- [![Nauman's Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=naumanaarif&theme=github-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
-<div>
+<div align=center>
 
-<div style="display: flex; gap: 8px">
-<!-- STATS -->
-<img src="https://github-readme-stats.vercel.app/api?username=naumanaarif&theme=github_dark&show_icons=true&hide_border=true&count_private=true&hide_title=true" height="" width="400" style="background-color: #0d1117; border: 2px solid #222d3d; border-radius: 22px;">
+<!-- <div style="display: flex; gap: 8px"> -->
 <!-- STREAK -->
-<img src="https://github-readme-streak-stats.herokuapp.com?user=naumanaarif&theme=github-dark-blue&stroke=384963&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="" width="400" style="background-color: #0d1117; border: 2px solid #222d3d; border-radius: 22px">
-</div>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=naumanaarif&theme=github-dark-blue&stroke=384963&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="220">
+<!-- STATS -->
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=naumanaarif&theme=github_dark&show_icons=true&hide_border=true&count_private=true&hide_title=true"> -->
+<!-- </div> -->
 
-<p></p>
 <!-- CONTRIBUTION GRAPH -->
-<img src="https://activity-graph.herokuapp.com/graph?username=naumanaarif&theme=github-dark&hide_border=true&color=e5e5e5&custom_title=GitHub%20Contributions" style="background-color: #0d1117; border: 2px solid #222d3d; border-radius: 22px; padding: 8px" height="300" width="804">
+<img src="https://activity-graph.herokuapp.com/graph?username=naumanaarif&theme=github-dark&hide_border=true&color=e5e5e5&custom_title=GitHub%20Contributions">
 
 </div>
 
