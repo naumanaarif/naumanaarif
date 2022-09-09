@@ -33,7 +33,7 @@
 </div>
 
 <!-- CONTRIBUTION GRAPH -->
-<img src="https://activity-graph.herokuapp.com/graph?username=naumanaarif&theme=github-dark&hide_border=true&color=e5e5e5&custom_title=GitHub%20Contributions">
+<img src="https://activity-graph.herokuapp.com/graph?username=naumanaarif&theme=github-dark&hide_border=true&color=e5e5e5&custom_title=Contributions%20in%20last%2030%20days">
 
 </div>
 
