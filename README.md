@@ -23,7 +23,7 @@
 
 <div style="display: flex; justify-content: space-between;">
 <!-- LANGS -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naumanaarif&hide=Jupyter%20Notebook&title_color=ffffff&hide_border=true&show_icons=true&theme=github_dark&layout=compact" height="" width="340">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naumanaarif&hide=Jupyter%20Notebook&title_color=ffffff&hide_border=true&show_icons=true&theme=github_dark&layout=compact" height="" width="340" style="margin-bottom: 10px">
 
 <!-- STREAK -->
 <img src="https://github-readme-streak-stats.herokuapp.com?user=naumanaarif&theme=github-dark-blue&stroke=384963&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="480">
