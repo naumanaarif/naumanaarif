@@ -1,5 +1,11 @@
 
-# $ `Skills/`
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=32&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&height=60&lines=Hello%2C+world!)](https://git.io/typing-svg)
+
+# `about/`
+
+My name is **Nauman**, and I am a ...
+
+# `skills/`
 
 ### ⌨️ `Languages`
 
@@ -12,7 +18,7 @@
 
 [![Tools](https://skillicons.dev/icons?i=git,github,linux,vscode,powershell,mysql,ps&theme=dark)](#)
 
-# $ `Stats/`
+# `stats/`
 
 <div align=center>
 
