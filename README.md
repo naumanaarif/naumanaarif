@@ -7,14 +7,14 @@ My name is **Nauman**, and I am a ... -->
 
 # `skills/`
 
-### ⌨️ `Languages`
+### ⌨️ Languages
 
 [![Languages](https://skillicons.dev/icons?i=python,c,cpp,js,html,css,bash,md,regex&theme=dark)](#)
 
-### ⚙️ `Frameworks`
+### ⚙️ Frameworks
 [![Frameworks](https://skillicons.dev/icons?i=django,fastapi,selenium,flask,bootstrap&theme=dark)](#)
 
-### 🛠️ `Tools`
+### 🛠️ Tools
 
 [![Tools](https://skillicons.dev/icons?i=git,github,linux,vscode,powershell,mysql,ps&theme=dark)](#)
 
