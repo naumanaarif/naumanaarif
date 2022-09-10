@@ -1,9 +1,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=32&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&height=60&lines=Hello%2C+world!)](https://git.io/typing-svg)
 
-# `about/`
+<!-- # `about/`
 
-My name is **Nauman**, and I am a ...
+My name is **Nauman**, and I am a ... -->
 
 # `skills/`
 
