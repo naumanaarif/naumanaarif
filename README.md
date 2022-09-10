@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=32&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&height=60&lines=Hello%2C+world!;This+is+Nauman+Arif.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=32&duration=3000&pause=1000&color=1f6fea&center=true&vCenter=true&width=800&height=60&lines=Hello%2C+world!;This+is+Nauman+Arif.)](https://git.io/typing-svg)
 
 <!-- # `about/`
 
