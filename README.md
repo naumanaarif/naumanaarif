@@ -6,7 +6,7 @@
 [![Languages](https://skillicons.dev/icons?i=python,c,cpp,js,html,css,bash,md,regex&theme=dark)](#)
 
 ### ⚙️ `Frameworks`
-[![Frameworks](https://skillicons.dev/icons?i=django,fastapi,flask,bootstrap&theme=dark)](#)
+[![Frameworks](https://skillicons.dev/icons?i=django,fastapi,selenium,flask,bootstrap&theme=dark)](#)
 
 ### 🛠️ `Tools`
 
