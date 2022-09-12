@@ -37,3 +37,5 @@ My name is **Nauman**, and I am a ... -->
 <img src="https://activity-graph.herokuapp.com/graph?username=naumanaarif&theme=github-dark&hide_border=true&color=e5e5e5&custom_title=Contributions%20in%20last%2030%20days">
 
 </div>
+
+<!-- ![Views](https://komarev.com/ghpvc/?username=naumanaarif&color=1f6fea&style=for-the-badge&label=Profile+views) -->
