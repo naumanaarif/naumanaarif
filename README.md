@@ -3,6 +3,12 @@
 
 # `about/`
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&labelColor=0b65c3&logoColor=white&color=0b65c3)](https://linkedin.com/in/naumanaarif)
+[![Kaggle](https://img.shields.io/badge/Kaggle-%230077B5.svg?&style=flat-square&logo=kaggle&labelColor=20beff&logoColor=white&color=20beff)](#)
+[![HackerRank](https://img.shields.io/badge/HackerRank-%231877F2.svg?&style=flat-square&logo=hackerrank&labelColor=00ea63&logoColor=black&color=00ea63)](https://facebook.com/warengonzagaofficial)
+[![DataCamp](https://img.shields.io/badge/DataCamp-%231877F2.svg?&style=flat-square&logo=datacamp&labelColor=05192d&logoColor=03ed61&color=05192d)](https://facebook.com/warengonzagaofficial)
+[![Stackoverflow](https://img.shields.io/badge/Stack%20Overflow-%231877F2.svg?&style=flat-square&logo=stackoverflow&labelColor=&logoColor=black&color=f48024)](https://facebook.com/warengonzagaofficial)
+
 - 👋🏽 My name is **Nauman Arif** (Urdu: نعمان عارف)
 - 🏫 I'm a self-taught programmer from Pakistan
 - 💻 Currently working with Python and SQL
