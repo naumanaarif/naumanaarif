@@ -10,7 +10,7 @@
 [![Medium](https://img.shields.io/badge/Medium-%231877F2.svg?&style=flat-square&logo=medium&color=black)](https://medium.com/@naumanaarif)
 
 - 👋🏽 My name is **Nauman Arif** (Urdu: نعمان عارف)
-- 🏫 I'm a self-taught programmer from Pakistan
+- 🏫 I'm a Computer Science Freshman
 - 💻 Currently working with Python and SQL
 - 🌱 Striving to become a better problem solver
 - ⚡ Fun fact: I love playing CS:GO
