@@ -3,8 +3,8 @@
 
 # `about/`
 
-- 👋🏽 Hi! my name is **Nauman** (Urdu: نعمان)
-- 🏫 I'm a self-taught programmer from Pakistan 
+- 👋🏽 My name is **Nauman Arif** (Urdu: نعمان عارف)
+- 🏫 I'm a self-taught programmer from Pakistan
 - 💻 Currently working with Python and SQL
 - 🌱 Striving to become a better problem solver
 - ⚡ Fun fact: I love playing CS:GO
