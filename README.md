@@ -1,9 +1,13 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=32&duration=3000&pause=1000&color=1f6fea&center=true&vCenter=true&width=800&height=60&lines=Hello%2C+world!;This+is+Nauman+Arif.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=36&duration=3000&pause=10000&color=1f6fea&center=true&vCenter=true&width=800&height=60&lines=Hello%2C+world!)](https://git.io/typing-svg)
 
-<!-- # `about/`
+# `about/`
 
-My name is **Nauman**, and I am a ... -->
+- 👋🏽 Hi! my name is **Nauman** (Urdu: نعمان)
+- 🏫 I'm a self-taught programmer from Pakistan 
+- 💻 Currently working with Python and SQL
+- 🌱 Striving to become a better problem solver
+- ⚡ Fun fact: I love playing CS:GO
 
 # `skills/`
 
