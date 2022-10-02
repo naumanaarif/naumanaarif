@@ -1,7 +1,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=36&duration=3000&pause=10000&color=1f6fea&center=true&vCenter=true&width=800&height=60&lines=Hello%2C+world!)](https://git.io/typing-svg)
 
-# `about/`
+# `👨🏽about/`
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&labelColor=0b65c3&logoColor=white&color=0b65c3)](https://linkedin.com/in/naumanaarif)
 [![Kaggle](https://img.shields.io/badge/Kaggle-%230077B5.svg?&style=flat-square&logo=kaggle&labelColor=20beff&logoColor=white&color=20beff)](https://www.kaggle.com/naumanaarif)
@@ -15,7 +15,7 @@
 - 🌱 Striving to become a better problem solver
 - ⚡ Fun fact: I love playing CS:GO
 
-# `skills/`
+# `💻skills/`
 
 ### ⌨️ Languages
 
@@ -28,7 +28,7 @@
 
 [![Tools](https://skillicons.dev/icons?i=git,github,linux,vscode,powershell,mysql,ps&theme=dark)](#)
 
-# `stats/`
+# `📊stats/`
 
 <div align=center>
 
