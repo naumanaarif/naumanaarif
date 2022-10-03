@@ -1,13 +1,13 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=36&duration=3000&pause=10000&color=1f6fea&center=true&vCenter=true&width=800&height=60&lines=Hello%2C+world!)](https://git.io/typing-svg)
 
-# `🧑🏽‍💻about/`
+# 🧑🏽‍💻 `about/`
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&labelColor=0b65c3&logoColor=white&color=0b65c3)](https://linkedin.com/in/naumanaarif)
 [![Kaggle](https://img.shields.io/badge/Kaggle-%230077B5.svg?&style=flat-square&logo=kaggle&labelColor=20beff&logoColor=white&color=20beff)](https://www.kaggle.com/naumanaarif)
 [![HackerRank](https://img.shields.io/badge/HackerRank-%231877F2.svg?&style=flat-square&logo=hackerrank&color=0c131c)](https://www.hackerrank.com/naumanaarif)
-[![DataCamp](https://img.shields.io/badge/DataCamp-%231877F2.svg?&style=flat-square&logo=datacamp&labelColor=05192d&logoColor=03ed61&color=05192d)](https://www.datacamp.com/profile/naumanaarif)
-[![Medium](https://img.shields.io/badge/Medium-%231877F2.svg?&style=flat-square&logo=medium&color=black)](https://medium.com/@naumanaarif)
+<!-- [![DataCamp](https://img.shields.io/badge/DataCamp-%231877F2.svg?&style=flat-square&logo=datacamp&labelColor=05192d&logoColor=03ed61&color=05192d)](https://www.datacamp.com/profile/naumanaarif) -->
+<!-- [![Medium](https://img.shields.io/badge/Medium-%231877F2.svg?&style=flat-square&logo=medium&color=black)](https://medium.com/@naumanaarif) -->
 
 - 👨🏽 My name is **Nauman Arif** (Urdu: نعمان عارف)
 - 🏫 I'm a Computer Science Freshman at HU Karachi
@@ -15,20 +15,20 @@
 - 🌱 Striving to become a better problem solver
 - ⚡ Fun fact: I love playing CS:GO
 
-# `💻skills/`
+# 💻 `skills/`
 
-### `⌨️ languages`
+### ⌨️ `languages`
 
 [![Languages](https://skillicons.dev/icons?i=python,c,cpp,js,html,css,bash,md,regex&theme=dark)](#)
 
-### `⚙️ frameworks`
+### ⚙️ `frameworks`
 [![Frameworks](https://skillicons.dev/icons?i=django,fastapi,selenium,flask,bootstrap&theme=dark)](#)
 
-### `🛠️ tools`
+### 🛠️ `tools`
 
 [![Tools](https://skillicons.dev/icons?i=git,github,linux,vscode,powershell,mysql,ps&theme=dark)](#)
 
-# `📊stats/`
+# 📊 `stats/`
 
 <div align=center>
 
