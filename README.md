@@ -1,7 +1,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=36&duration=3000&pause=10000&color=1f6fea&center=true&vCenter=true&width=800&height=60&lines=Hello%2C+world!)](https://git.io/typing-svg)
 
-# `👨🏽about/`
+# `🧑🏽‍💻about/`
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&labelColor=0b65c3&logoColor=white&color=0b65c3)](https://linkedin.com/in/naumanaarif)
 [![Kaggle](https://img.shields.io/badge/Kaggle-%230077B5.svg?&style=flat-square&logo=kaggle&labelColor=20beff&logoColor=white&color=20beff)](https://www.kaggle.com/naumanaarif)
@@ -9,22 +9,22 @@
 [![DataCamp](https://img.shields.io/badge/DataCamp-%231877F2.svg?&style=flat-square&logo=datacamp&labelColor=05192d&logoColor=03ed61&color=05192d)](https://www.datacamp.com/profile/naumanaarif)
 [![Medium](https://img.shields.io/badge/Medium-%231877F2.svg?&style=flat-square&logo=medium&color=black)](https://medium.com/@naumanaarif)
 
-- 👋🏽 My name is **Nauman Arif** (Urdu: نعمان عارف)
-- 🏫 I'm a Computer Science Freshman
+- 👨🏽 My name is **Nauman Arif** (Urdu: نعمان عارف)
+- 🏫 I'm a Computer Science Freshman at HU Karachi
 - 💻 Currently working with Python and SQL
 - 🌱 Striving to become a better problem solver
 - ⚡ Fun fact: I love playing CS:GO
 
 # `💻skills/`
 
-### ⌨️ Languages
+### `⌨️ languages`
 
 [![Languages](https://skillicons.dev/icons?i=python,c,cpp,js,html,css,bash,md,regex&theme=dark)](#)
 
-### ⚙️ Frameworks
+### `⚙️ frameworks`
 [![Frameworks](https://skillicons.dev/icons?i=django,fastapi,selenium,flask,bootstrap&theme=dark)](#)
 
-### 🛠️ Tools
+### `🛠️ tools`
 
 [![Tools](https://skillicons.dev/icons?i=git,github,linux,vscode,powershell,mysql,ps&theme=dark)](#)
 
@@ -33,6 +33,7 @@
 <div align=center>
 
 <div style="display: flex; justify-content: space-between;">
+
 <!-- LANGS -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naumanaarif&hide=Jupyter%20Notebook&title_color=ffffff&hide_border=true&show_icons=true&theme=github_dark&layout=compact" height="" width="340" style="margin-bottom: 10px">
 
@@ -41,6 +42,7 @@
 
 <!-- RANK -->
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=naumanaarif&theme=github_dark&show_icons=true&hide_border=true&count_private=true&hide_title=true"> -->
+
 </div>
 
 <!-- CONTRIBUTION GRAPH -->
