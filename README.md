@@ -17,14 +17,14 @@
 
 # 💻 `skills/`
 
-### ⌨️ `languages`
+### `⌨️ languages`
 
 [![Languages](https://skillicons.dev/icons?i=python,c,cpp,js,html,css,bash,md,regex&theme=dark)](#)
 
-### ⚙️ `frameworks`
+### `⚙️ frameworks`
 [![Frameworks](https://skillicons.dev/icons?i=django,fastapi,selenium,flask,bootstrap&theme=dark)](#)
 
-### 🛠️ `tools`
+### `🛠️ tools`
 
 [![Tools](https://skillicons.dev/icons?i=git,github,linux,vscode,powershell,mysql,ps&theme=dark)](#)
 
