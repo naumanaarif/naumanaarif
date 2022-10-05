@@ -10,21 +10,21 @@
 <!-- [![Medium](https://img.shields.io/badge/Medium-%231877F2.svg?&style=flat-square&logo=medium&color=black)](https://medium.com/@naumanaarif) -->
 
 - 👨🏽 My name is **Nauman Arif** (Urdu: نعمان عارف)
-- 🏫 I'm a Computer Science Freshman at HU Karachi
-- 💻 Currently working with Python and SQL
+- 🏫 I'm a Computer Science Freshman
+- 📕 Currently reading *Why We Sleep by Mathew Walker*
 - 🌱 Striving to become a better problem solver
-- ⚡ Fun fact: I love playing CS:GO
+- ⚡ *Fun fact*: I love playing CS:GO
 
 # 💻 `skills/`
 
-### `⌨️ languages`
+### Languages
 
 [![Languages](https://skillicons.dev/icons?i=python,c,cpp,js,html,css,bash,md,regex&theme=dark)](#)
 
-### `⚙️ frameworks`
+### Frameworks
 [![Frameworks](https://skillicons.dev/icons?i=django,fastapi,selenium,flask,bootstrap&theme=dark)](#)
 
-### `🛠️ tools`
+### Tools
 
 [![Tools](https://skillicons.dev/icons?i=git,github,linux,vscode,powershell,mysql,ps&theme=dark)](#)
 
