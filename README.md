@@ -3,17 +3,18 @@
 
 # 🧑🏽‍💻 `about/`
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&labelColor=0b65c3&logoColor=white&color=0b65c3)](https://linkedin.com/in/naumanaarif)
-[![Kaggle](https://img.shields.io/badge/Kaggle-%230077B5.svg?&style=flat-square&logo=kaggle&labelColor=20beff&logoColor=white&color=20beff)](https://www.kaggle.com/naumanaarif)
-[![HackerRank](https://img.shields.io/badge/HackerRank-%231877F2.svg?&style=flat-square&logo=hackerrank&color=0c131c)](https://www.hackerrank.com/naumanaarif)
-<!-- [![DataCamp](https://img.shields.io/badge/DataCamp-%231877F2.svg?&style=flat-square&logo=datacamp&labelColor=05192d&logoColor=03ed61&color=05192d)](https://www.datacamp.com/profile/naumanaarif) -->
-<!-- [![Medium](https://img.shields.io/badge/Medium-%231877F2.svg?&style=flat-square&logo=medium&color=black)](https://medium.com/@naumanaarif) -->
-
 - 👨🏽 My name is **Nauman Arif** (Urdu: نعمان عارف)
-- 🏫 I'm a Computer Science Freshman
+- 🏫 I'm a Computer Science Freshman at Hamdard University Karachi
+- ⚒️ I love building stuff to solve real world problems 
 - 📕 Currently reading *Why We Sleep by Mathew Walker*
 - 🌱 Striving to become a better problem solver
 - ⚡ *Fun fact*: I love playing CS:GO
+
+#### Get in touch:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&labelColor=0b65c3&logoColor=white&color=0b65c3)](https://linkedin.com/in/naumanaarif)
+[![Kaggle](https://img.shields.io/badge/Kaggle-%230077B5.svg?&style=flat-square&logo=kaggle&labelColor=20beff&logoColor=white&color=20beff)](https://www.kaggle.com/naumanaarif)
+[![HackerRank](https://img.shields.io/badge/HackerRank-%231877F2.svg?&style=flat-square&logo=hackerrank&color=0c131c)](https://www.hackerrank.com/naumanaarif)
 
 # 💻 `skills/`
 
