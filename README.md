@@ -6,7 +6,7 @@
 - 👨🏽 My name is **Nauman Arif** (Urdu: نعمان عارف)
 - 🏫 I'm a Computer Science Freshman at Hamdard University Karachi
 - ⚒️ I love building stuff to solve real world problems 
-- 📕 Currently reading *Why We Sleep by Mathew Walker*
+- 📕 Currently reading *Why We Sleep* by Mathew Walker
 - 🌱 Striving to become a better problem solver
 - ⚡ *Fun fact*: I love playing CS:GO
 
