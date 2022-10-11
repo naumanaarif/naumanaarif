@@ -9,7 +9,7 @@
 - 🌱 Striving to become a better problem solver
 - ⚡ *Fun fact*: I love playing CS:GO
 
-#### Get in touch:
+#### Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&labelColor=0b65c3&logoColor=white&color=0b65c3)](https://linkedin.com/in/naumanaarif)
 [![Kaggle](https://img.shields.io/badge/Kaggle-%230077B5.svg?&style=flat-square&logo=kaggle&labelColor=20beff&logoColor=white&color=20beff)](https://www.kaggle.com/naumanaarif)
