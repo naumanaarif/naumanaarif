@@ -5,7 +5,7 @@
 
 - 👨🏽 My name is **Nauman Arif** (Urdu: نعمان عارف)
 - 🏫 I'm a Computer Science Freshman at [@Hamdard University](https://www.hamdard.edu.pk/)
-- 📕 Currently reading *Why We Sleep* by Mathew Walker
+- 📕 Currently reading *Clean Code: A Handbook of Agile Software Craftsmanship* by Robert Cecil Martin
 - 🌱 Striving to become a better problem solver
 - ⚡ *Fun fact*: I play CS:GO
 
