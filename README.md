@@ -4,8 +4,8 @@
 # 🧑🏽‍💻 `about/`
 
 - 👨🏽 My name is **Nauman Arif** (Urdu: نعمان عارف)
-- 🏫 I'm a Computer Science Freshman at [@Hamdard University](https://www.hamdard.edu.pk/)
-- 📕 Currently reading *Clean Code: A Handbook of Agile Software Craftsmanship* by Robert Cecil Martin
+- 🏫 I'm a Computer Science Freshman at [Hamdard University](https://www.hamdard.edu.pk/)
+- 📕 Currently reading [*Clean Code: A Handbook of Agile Software Craftsmanship*](https://www.goodreads.com/book/show/3735293-clean-code) by Robert C. Martin
 - 🌱 Striving to become a better problem solver
 - ⚡ *Fun fact*: I play CS:GO
 
