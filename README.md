@@ -15,7 +15,7 @@
 [![HackerRank](https://img.shields.io/badge/HackerRank-%231877F2.svg?&style=flat-square&logo=hackerrank&color=0c131c)](https://www.hackerrank.com/naumanaarif)
  -->
  
-# `/skills`
+<!-- # `/skills`
 
 ### Languages
 
@@ -33,22 +33,22 @@
 
 <div align=center>
 
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex; justify-content: space-between;"> -->
 
 <!-- LANGS -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naumanaarif&hide=Jupyter%20Notebook&title_color=ffffff&hide_border=true&show_icons=true&theme=github_dark&layout=compact" height="" width="340" style="margin-bottom: 10px">
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naumanaarif&hide=Jupyter%20Notebook&title_color=ffffff&hide_border=true&show_icons=true&theme=github_dark&layout=compact" height="" width="340" style="margin-bottom: 10px"> -->
 
 <!-- STREAK -->
-<img src="https://github-readme-streak-stats.herokuapp.com?user=naumanaarif&theme=github-dark-blue&stroke=384963&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="480">
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com?user=naumanaarif&theme=github-dark-blue&stroke=384963&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="480"> -->
 
 <!-- RANK -->
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=naumanaarif&theme=github_dark&show_icons=true&hide_border=true&count_private=true&hide_title=true"> -->
 
-</div>
+<!-- </div> -->
 
 <!-- CONTRIBUTION GRAPH -->
-<img src="https://activity-graph.herokuapp.com/graph?username=naumanaarif&theme=github-dark&hide_border=true&color=e5e5e5&custom_title=Contributions%20in%20last%2030%20days">
+<!-- <img src="https://activity-graph.herokuapp.com/graph?username=naumanaarif&theme=github-dark&hide_border=true&color=e5e5e5&custom_title=Contributions%20in%20last%2030%20days"> -->
 
-</div>
+<!-- </div> -->
 
 <!-- ![Views](https://komarev.com/ghpvc/?username=naumanaarif&color=1f6fea&style=for-the-badge&label=Profile+views) -->
