@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=36&duration=3000&pause=10000&color=0165fb&center=true&vCenter=true&width=800&height=60&lines=Hello%2C+world!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=36&duration=3000&pause=1000&color=0165FB&background=FFFFFF00&center=true&vCenter=true&random=false&width=1200&height=60&separator=%3D&lines=print(%22Hello%2C+world%22)%3Dprintf(%22Hello%2C+world!%22);%3Dcout+%3C%3C+%22Hello%2C+world!%22;%3DConsole.Write(%22Hello%2C+world!%22);%3Decho+%22Hello%2C+world!%22)](https://git.io/typing-svg)
 
 <!-- # 🧑🏽‍💻 `about/`
 
