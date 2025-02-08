@@ -44,7 +44,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com?user=naumanaarif&theme=github-dark-blue&stroke=384963&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="480">
 
 <!-- RANK -->
-<img src="https://github-readme-stats.vercel.app/api?username=naumanaarif&theme=github_dark&show_icons=true&hide_border=true&count_private=true&hide_title=true">
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=naumanaarif&theme=github_dark&show_icons=true&hide_border=true&count_private=true&hide_title=true"> -->
 
 <!-- </div> -->
 
