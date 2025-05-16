@@ -3,10 +3,13 @@
 
 # Introduction
 
-- Hi, my name is Nauman.
+- Hi, my name is Nauman and I am from Karachi, Pakistan.
 - I'm a CS junior at [Hamdard University](https://www.hamdard.edu.pk/), currently in 6th semester.
 - I love to solve problems using *code, data & design*.
-- 📘Currently reading: [*Clean Code: A Handbook of Agile Software Craftsmanship*](https://www.goodreads.com/book/show/3735293-clean-code) by Robert C. Martin
+- I like learning new stuff and building things.
+  
+> 💻 Learning: *Building Windows Apps using WinUI 3*  
+📘 Reading: *Outliers: The Story of Success* by Malcolm Gladwell
 
 #### Let's connect:
 
