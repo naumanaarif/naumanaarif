@@ -4,7 +4,7 @@
 # Introduction
 
 - Hi, my name is Nauman and I am from Karachi, Pakistan.
-- I'm a CS junior at [Hamdard University](https://www.hamdard.edu.pk/), currently in 6th semester.
+- I'm a CS junior at Hamdard University, currently in 6th semester.
 - I love to solve problems using *code, data & design*.
 - I like learning new stuff and building things.
   
