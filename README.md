@@ -34,7 +34,7 @@
 
 ### Currently learning
 
-[![roadmap.sh](https://roadmap.sh/card/wide/646cd2becb6301e67f897f7b?variant=dark&roadmaps=computer-science%2Cdatastructures-and-algorithms%2Csystem-design%2Cpython)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/wide/646cd2becb6301e67f897f7b?variant=dark&roadmaps=computer-science%2Cpython%2Csystem-design)](https://roadmap.sh)
 
 
 # Github Stats
