@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=36&duration=3000&pause=1000&color=ffffff&background=FFFFFF00&center=false&vCenter=true&random=false&width=1200&height=60&separator=%3D&lines=print(%22Hello%2C+world!%22)%3Dprintf(%22Hello%2C+world!\n%22);%3Dcout+%3C%3C+%22Hello%2C+world!%22;%3DConsole.Write(%22Hello%2C+world!%22);%3Decho+%22Hello%2C+world!%22)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=32&duration=3000&pause=1000&color=F1F6F9&background=1E293D&center=true&vCenter=true&width=1200&height=100&lines=Salam!;My+name+is+Nauman%2C;and+I+like+solving+problems.)](https://git.io/typing-svg)
 
 ## Introduction
 
