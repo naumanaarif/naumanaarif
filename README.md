@@ -2,10 +2,7 @@
 
 ## Introduction
 
-- Hi, my name is Nauman and I am curious student who loves to explore new things.
-- I'm a computer science senior at Hamdard University, Karachi.
-- I love the things that are designed with great attention to detail.
-- I like programming, reading, sports and problem-solving.
+I am curious learner who loves to explore new things. I'm a computer science senior at Hamdard University, Karachi. I love things that are designed with great attention to detail. I like programming, reading, sports and problem-solving.
 
 > 📘 Currently Reading: Zero To One  
 🏓 Playing: Table tennis, Badminton
@@ -15,6 +12,13 @@
 [![HackerRank](https://img.shields.io/badge/HackerRank-%231877F2.svg?&style=flat-square&logo=hackerrank&color=0c131c)](https://www.hackerrank.com/naumanaarif)
 
 ## Skills
+
+### What I do:
+
+- Problem-solving
+- Data Engineering
+- User Experience Design
+- Web Development
 
 ### Tools I use:
 
