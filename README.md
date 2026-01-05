@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=32&duration=3000&pause=1000&color=F1F6F9&background=1E293D&center=true&vCenter=true&repeat=false&width=1000&height=80&lines=Salam!;My+name+is+Nauman.;I+like+solving+(and+creating)+problems.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=32&duration=3000&pause=1000&color=F1F6F9&background=1E293D&center=true&vCenter=true&repeat=false&width=1000&height=200&lines=Salam!;My+name+is+Nauman.;I+like+solving+(and+creating)+problems.)](https://git.io/typing-svg)
 
 ### What I do:
 
