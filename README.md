@@ -1,14 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=32&duration=3000&pause=1000&color=F1F6F9&background=1E293D&center=true&vCenter=true&repeat=false&width=1000&height=80&lines=Salam!;My+name+is+Nauman.;I+like+solving+(and+creating)+problems.)](https://git.io/typing-svg)
 
-> 📘 Currently Reading: Zero To One  
-🏓 Playing: Table tennis, Badminton
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&labelColor=0b65c3&logoColor=white&color=0b65c3)](https://linkedin.com/in/naumanaarif)
-[![Kaggle](https://img.shields.io/badge/Kaggle-%230077B5.svg?&style=flat-square&logo=kaggle&labelColor=20beff&logoColor=white&color=20beff)](https://www.kaggle.com/naumanaarif)
-[![HackerRank](https://img.shields.io/badge/HackerRank-%231877F2.svg?&style=flat-square&logo=hackerrank&color=0c131c)](https://www.hackerrank.com/naumanaarif)
-
-## Skills
-
 ### What I do:
 
 - Problem-solving
