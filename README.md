@@ -1,8 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=32&duration=3000&pause=1000&color=F1F6F9&background=1E293D&center=true&vCenter=true&width=1000&height=100&lines=Salam!;My+name+is+Nauman%2C;and+I+like+solving+problems.)](https://git.io/typing-svg)
-
-## Introduction
-
-I am curious learner who loves to explore new things. I'm a computer science senior at Hamdard University, Karachi. I love things that are designed with great attention to detail. I like programming, reading, sports and problem-solving.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=32&duration=3000&pause=1000&color=F1F6F9&background=1E293D&center=true&vCenter=true&repeat=false&width=1000&height=80&lines=Salam!;My+name+is+Nauman.;I+like+solving+(and+creating)+problems.)](https://git.io/typing-svg)
 
 > 📘 Currently Reading: Zero To One  
 🏓 Playing: Table tennis, Badminton
