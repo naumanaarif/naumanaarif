@@ -13,4 +13,4 @@
 
 ### What I'm learning:
 
-[![roadmap.sh](https://roadmap.sh/card/wide/646cd2becb6301e67f897f7b?variant=dark&roadmaps=computer-science%2Cmachine-learning%2Cdatastructures-and-algorithms%2Cpython)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/wide/646cd2becb6301e67f897f7b?variant=dark&roadmaps=computer-science%2Cmachine-learning%2Cdatastructures-and-algorithms%2Cpython)](https://roadmap.sh/u/naumanaarif)
