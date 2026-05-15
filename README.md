@@ -9,7 +9,7 @@
 
 ### Tools I use:
 
-[![Tools](https://skillicons.dev/icons?i=flask,django,fastapi,selenium,bootstrap,python,c,cpp,git,github,linux,vscode,powershell,mysql,ps,figma,html,css,js,bash,md,regex&theme=dark)](#)
+[![Tools](https://skillicons.dev/icons?i=python,c,html,css,js,cpp,flask,django,fastapi,selenium,bootstrap,git,bash,linux,mysql,ps,figma,notion&theme=dark)](#)
 
 ### What I'm learning:
 
