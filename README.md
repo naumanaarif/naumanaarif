@@ -2,10 +2,8 @@
 
 ### What I do:
 
-- Problem-solving
-- Data Engineering
 - User Experience Design
-- Web Development
+- Product Design
 
 ### Tools I use:
 
