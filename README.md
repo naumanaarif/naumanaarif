@@ -5,6 +5,11 @@
 - User Experience Design
 - Product Design
 
+### What I've Built:
+
+- [Dakhla](https://dakhla.pk) - University Admissions Platform
+- [QuranSync](https://quransync.live) - Minimal Quran Player
+
 ### Tools I use:
 
 [![Tools](https://skillicons.dev/icons?i=python,c,html,css,js,cpp,flask,django,fastapi,selenium,bootstrap,git,bash,linux,mysql,ps,figma,notion&theme=dark)](#)
